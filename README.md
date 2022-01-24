@@ -1,5 +1,6 @@
 # E-Commerce
-### [Live Site](https://commerce-js.netlify.app/)
+### [Live Site](https://commerce-js.netlify.app)
+### [Video](https://www.youtube.com/watch?v=377AQ0y6LPA)
 
 ![eCommerce](https://i.ibb.co/mH9SNNq/Build-an-e-commerce-1.png)
 
